@@ -16,6 +16,9 @@ With the Base64 Encoder Decoder Project, you can easily encode or decode message
 
 We hope you find this project useful and enjoy using it for your encoding and decoding needs!
 
-
+Akash Kundu
 Email - anuaku2001@gmail.com
+
+Baishakhi Modak
 Email - baishakhimodak24@gmail.com
+GitHub - https://github.com/Baishakhi2002
